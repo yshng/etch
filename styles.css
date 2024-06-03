@@ -11,3 +11,7 @@
     box-sizing: border-box;
 	aspect-ratio: 1 / 1;
 }
+
+.filled {
+	background-color: lightblue;
+}
